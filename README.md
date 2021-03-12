@@ -1,7 +1,9 @@
 ![alt text](welcome.jpg)
 ![alt text](collage2.jpg)
 
+<p align="center">
  🌑  🌒  🌓  🌔  🌕  🌖  🌗  🌘  🌑
+<p>
 
 🌿 I'm looking for my first frontend job!
 
@@ -10,6 +12,7 @@
 🌿 My enthusiasm can probably power a small car!
 
 🌿 I have so many creative ideas!
+
 ![alt text](connect.jpg)
 <p align="center">
     <a href="https://dev.to/@ineeader" target="blank">
@@ -46,7 +49,10 @@
 </a> 
 </p>
 
+<p align="center">
+
 [![Inee's GitHub stats](https://github-readme-stats.vercel.app/api?username=inee-ader&show_icons=true&theme=gotham)](https://github.com/inee-ader/github-readme-stats)
+</p>
 
 
 
