@@ -1,10 +1,6 @@
-
-## Under Construction, come back later, bae. 
-
-
-
-![alt text](collage.jpg)
 <h3 align="left">Hi, I'm Inée, the amazing newly-hatched frontend developer!</h3>
+
+![alt text](collage2.jpg)
 
 [![Inee's GitHub stats](https://github-readme-stats.vercel.app/api?username=inee-ader&show_icons=true&theme=gotham)](https://github.com/inee-ader/github-readme-stats)
 
