@@ -1,12 +1,11 @@
-<h3 align="left">Hi, I'm Inée, the amazing newly-hatched frontend developer!</h3>
+![alt text](welcome.jpg)
 
 ![alt text](collage2.jpg)
 
 [![Inee's GitHub stats](https://github-readme-stats.vercel.app/api?username=inee-ader&show_icons=true&theme=gotham)](https://github.com/inee-ader/github-readme-stats)
 
-#
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![alt text](connect.jpg)
+<p align="center">
     <a href="https://dev.to/@ineeader" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@ineeader" height="30" width="40" />
     </a>
@@ -15,9 +14,9 @@
     </a>
 </p>
 
-#
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+![alt text](stack.jpg)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
