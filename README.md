@@ -2,7 +2,7 @@
 ![alt text](collage2.jpg)
 
 <p align="center">
- 🌑  🌒  🌓  🌔  🌕  🌖  🌗  🌘  🌑
+ 🌑   🌒   🌓   🌔   🌕   🌖   🌗   🌘   🌑
 <p>
 
 🌿 I'm looking for my first frontend job!
@@ -52,6 +52,7 @@
 <p align="center">
 
 [![Inee's GitHub stats](https://github-readme-stats.vercel.app/api?username=inee-ader&show_icons=true&theme=gotham)](https://github.com/inee-ader/github-readme-stats)
+
 </p>
 
 
