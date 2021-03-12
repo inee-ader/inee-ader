@@ -6,6 +6,9 @@
 ![alt text](collage.jpg)
 <h3 align="left">Hi, I'm Inée, the amazing newly-hatched frontend developer!</h3>
 
+[![Inee's GitHub stats](https://github-readme-stats.vercel.app/api?username=inee-ader&show_icons=true&theme=gotham)](https://github.com/inee-ader/github-readme-stats)
+
+#
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/@ineeader" target="blank">
@@ -16,6 +19,7 @@
     </a>
 </p>
 
+#
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
