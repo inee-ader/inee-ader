@@ -1,7 +1,10 @@
 
-## Under Construction, check back later, bae. 
+## Under Construction, come back later, bae. 
 
-<h3 align="center">Hi, I'm Inée, the amazing newly-hatched frontend developer!</h3>
+
+
+![alt text](collage.jpg)
+<h3 align="left">Hi, I'm Inée, the amazing newly-hatched frontend developer!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +37,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
     </a> 
 </p>
+
