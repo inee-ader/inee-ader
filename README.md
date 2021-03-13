@@ -7,7 +7,7 @@
 
 🌿  I'm looking for my first frontend job!
 
-🌿  I learn wicked fast! 
+🌿  Collaboration is my strong-suit!
 
 🌿  My enthusiasm can probably power a small car!
 
