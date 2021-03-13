@@ -49,7 +49,7 @@
     <img src="https://pngimg.com/uploads/snails/snails_PNG13200.png" alt="my website" width="100" height="70"/>
 </a> 
 <br>
-    Or...straight to my plant collection ---> 
+    Or...straight to my plant collection --->
 <a href="https://www.ineeader.dev/plants" target="_blank">
     <img src="https://pngimg.com/uploads/green_leaves/small/green_leaves_PNG3680.png" alt="ma plants" width="90" height="80"/>
 </a>
