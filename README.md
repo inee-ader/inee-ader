@@ -5,13 +5,13 @@
  🌑   🌒   🌓   🌔   🌕   🌖   🌗   🌘   🌑
 <p>
 
-🌿 I'm looking for my first frontend job!
+🌿  I'm looking for my first frontend job!
 
-🌿 I learn wicked fast! 
+🌿  I learn wicked fast! 
 
-🌿 My enthusiasm can probably power a small car!
+🌿  My enthusiasm can probably power a small car!
 
-🌿 I have so many creative ideas!
+🌿  I have so many creative ideas!
 
 ![alt text](connect.jpg)
 <p align="center">
@@ -44,10 +44,15 @@
 
 ![alt text](stuff.jpg)
 <p align="center" >
-    You have to touch it --->
+    You have to pet this cutie --->
 <a href="https://www.ineeader.dev/" target="_blank"> 
     <img src="https://pngimg.com/uploads/snails/snails_PNG13200.png" alt="my website" width="100" height="70"/>
 </a> 
+<br>
+    Or...straight to my plant collection ---> 
+<a href="https://www.ineeader.dev/plants" target="_blank">
+    <img src="https://pngimg.com/uploads/green_leaves/small/green_leaves_PNG3680.png" alt="ma plants" width="90" height="80"/>
+</a>
 </p>
 
 <p align="center">
