@@ -5,7 +5,7 @@
  🌑   🌒   🌓   🌔   🌕   🌖   🌗   🌘   🌑
 <p>
 
-🌿  I'm looking for my first frontend job!
+🌿  I wanna make fun/stupid things!
 
 🌿  Collaboration is my strong-suit!
 
